@@ -1,7 +1,5 @@
 import ajax.Author
 import ajax.Book
-import ajax.Person
-import ajax.Publisher
 
 class BootStrap {
 
